@@ -3,3 +3,4 @@
 22 oct --> Practice on Functions   <br>
 Today dive into the data analysis libraries <br>
 Explore the data with pandas library
+Move to the python Libraries 
