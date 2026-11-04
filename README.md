@@ -5,4 +5,5 @@ Today dive into the data analysis libraries <br>
 Explore the data with pandas library <br>
 Move to the python Libraries  <br>
 Learning the Pandas library <br>
+create Pivot table with Pand
 
